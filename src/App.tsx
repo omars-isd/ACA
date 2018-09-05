@@ -1,7 +1,7 @@
-import * as React from 'react';
-import './App.css';
+import * as React from "react";
+import "./App.css";
 
-import logo from './logo.svg';
+import logo from "./logo.svg";
 
 class App extends React.Component {
   public render() {
@@ -12,11 +12,12 @@ class App extends React.Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.tsx</code> and save to reload and stuff.
+          To get started, edit <code>src/App.tsx</code> and save to reload and
+          stuff.
         </p>
       </div>
     );
   }
-}
+} //dfglhfklg
 
 export default App;
