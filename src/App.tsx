@@ -18,6 +18,6 @@ class App extends React.Component {
       </div>
     );
   }
-} //dfglhfklg
+}
 
 export default App;
